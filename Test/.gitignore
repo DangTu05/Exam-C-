@@ -1,0 +1,17 @@
+﻿# 🛑 Bỏ qua thư mục của Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 🛑 Bỏ qua thư mục tạm và build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log

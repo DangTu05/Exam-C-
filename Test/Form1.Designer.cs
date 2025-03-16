@@ -108,7 +108,7 @@
             // 
             this.MaSv.Location = new System.Drawing.Point(194, 51);
             this.MaSv.Name = "MaSv";
-            this.MaSv.Size = new System.Drawing.Size(100, 22);
+            this.MaSv.Size = new System.Drawing.Size(151, 22);
             this.MaSv.TabIndex = 7;
             this.MaSv.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -116,7 +116,7 @@
             // 
             this.HoTen.Location = new System.Drawing.Point(194, 89);
             this.HoTen.Name = "HoTen";
-            this.HoTen.Size = new System.Drawing.Size(100, 22);
+            this.HoTen.Size = new System.Drawing.Size(151, 22);
             this.HoTen.TabIndex = 8;
             // 
             // ChuyenNganh
@@ -129,21 +129,21 @@
             "Ngân hàng"});
             this.ChuyenNganh.Location = new System.Drawing.Point(194, 184);
             this.ChuyenNganh.Name = "ChuyenNganh";
-            this.ChuyenNganh.Size = new System.Drawing.Size(121, 24);
+            this.ChuyenNganh.Size = new System.Drawing.Size(151, 24);
             this.ChuyenNganh.TabIndex = 10;
             // 
             // DiemTrungBinh
             // 
             this.DiemTrungBinh.Location = new System.Drawing.Point(194, 234);
             this.DiemTrungBinh.Name = "DiemTrungBinh";
-            this.DiemTrungBinh.Size = new System.Drawing.Size(100, 22);
+            this.DiemTrungBinh.Size = new System.Drawing.Size(107, 22);
             this.DiemTrungBinh.TabIndex = 11;
             // 
             // Nhap
             // 
             this.Nhap.Location = new System.Drawing.Point(194, 277);
             this.Nhap.Name = "Nhap";
-            this.Nhap.Size = new System.Drawing.Size(75, 23);
+            this.Nhap.Size = new System.Drawing.Size(75, 28);
             this.Nhap.TabIndex = 12;
             this.Nhap.Text = "Nhập";
             this.Nhap.UseVisualStyleBackColor = true;
